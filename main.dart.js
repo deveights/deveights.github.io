@@ -27712,7 +27712,7 @@ Y(a){var s=null
 return new A.oA(new A.w4(s),"DEVEIGHTS",A.YX(s,A.a_F(B.P,s,s,B.zG),s),s)}}
 A.w4.prototype={
 Y(a){var s=null
-return new A.pF(A.a7i(new A.yM("Hello World I'm Erish Sounder Latorre Mobile Developer",s,A.qp(s,s,B.m,s,s,s,s,s,s,s,s,30,s,s,B.ei,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s),s)}}
+return new A.pF(A.a7i(new A.yM("Hello World I'm Erish Sounder Latorre Mobile Developer",s,A.qp(s,s,B.m,s,s,s,s,s,s,s,s,40,s,s,B.ei,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s),s)}}
 A.ez.prototype={
 C(){return"AnimationStatus."+this.b},
 geh(){var s,r=this
